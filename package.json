@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/plot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Standard library plotting.",
   "license": "Apache-2.0",
   "author": {
