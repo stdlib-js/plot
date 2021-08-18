@@ -416,7 +416,7 @@ $ echo -n $'-1\n1\n0\n0\n1\n-1\n-1\n1\n' | sparkline-tristate
 
 [mdn-regexp]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
-[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/stdlib
+[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
 </section>
 
