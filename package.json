@@ -35,12 +35,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert": "github:stdlib-js/assert",
-    "@stdlib/fs": "github:stdlib-js/fs",
-    "@stdlib/net": "github:stdlib-js/net",
-    "@stdlib/process": "github:stdlib-js/process",
-    "@stdlib/random": "github:stdlib-js/random",
-    "@stdlib/utils": "github:stdlib-js/utils",
+    "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/fs": "github:stdlib-js/fs#main",
+    "@stdlib/net": "github:stdlib-js/net#main",
+    "@stdlib/process": "github:stdlib-js/process#main",
+    "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/utils": "github:stdlib-js/utils#main",
     "d3-format": "^1.0.0",
     "d3-scale": "^1.0.0",
     "d3-shape": "^1.0.0",
