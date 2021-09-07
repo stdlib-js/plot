@@ -226,11 +226,11 @@ var type = chart.type;
 
 The following chart types are supported:
 
--   [`'column'`][@stdlib/plot/sparklines/unicode/column]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/column
--   [`'line'`][@stdlib/plot/sparklines/unicode/line]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/line
--   [`'tristate'`][@stdlib/plot/sparklines/unicode/tristate]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/tristate
--   [`'up-down'`][@stdlib/plot/sparklines/unicode/up-down]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/up-down
--   [`'win-loss'`][@stdlib/plot/sparklines/unicode/win-loss]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/win-loss
+-   [`'column'`][@stdlib/plot/sparklines/unicode/column]: column chart (e.g., `▃▆▂▄▁▅▅`).
+-   [`'line'`][@stdlib/plot/sparklines/unicode/line]: line chart (e.g., `⡈⠑⠢⠔⠒⠒⠒`).
+-   [`'tristate'`][@stdlib/plot/sparklines/unicode/tristate]: tristate chart (e.g., `▄▀──▀▄▄▀`).
+-   [`'up-down'`][@stdlib/plot/sparklines/unicode/up-down]: up/down chart (e.g., `↓↑↑↑↑↓↓↑`).
+-   [`'win-loss'`][@stdlib/plot/sparklines/unicode/win-loss]: win/loss chart (e.g., `┌╵└┴╵╷╷╵`).
 
 <a name="prop-y-min"></a>
 
@@ -495,11 +495,39 @@ $ echo -n $'1\n2\n3\n4\n5\n6\n' | sparkline --ymax 3
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/plot`][@stdlib/plot]: standard library plotting.
+-   [`@stdlib/plot/ctor`][@stdlib/plot/ctor]: 2-dimensional plot constructor.
+-   [`@stdlib/plot/sparklines/unicode/column`][@stdlib/plot/sparklines/unicode/column]: create a Unicode sparkline column chart.
+-   [`@stdlib/plot/sparklines/unicode/line`][@stdlib/plot/sparklines/unicode/line]: create a Unicode sparkline line chart.
+-   [`@stdlib/plot/sparklines/unicode/tristate`][@stdlib/plot/sparklines/unicode/tristate]: create a Unicode sparkline tristate chart.
+-   [`@stdlib/plot/sparklines/unicode/up-down`][@stdlib/plot/sparklines/unicode/up-down]: create a Unicode sparkline up/down chart.
+-   [`@stdlib/plot/sparklines/unicode/win-loss`][@stdlib/plot/sparklines/unicode/win-loss]: create a Unicode sparkline win/loss chart.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [mdn-regexp]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/plot]: https://github.com/stdlib-js/plot/tree/main
+
+[@stdlib/plot/ctor]: https://github.com/stdlib-js/plot/tree/main/ctor
 
 [@stdlib/plot/sparklines/unicode/column]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/column
 
@@ -510,6 +538,8 @@ $ echo -n $'1\n2\n3\n4\n5\n6\n' | sparkline --ymax 3
 [@stdlib/plot/sparklines/unicode/up-down]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/up-down
 
 [@stdlib/plot/sparklines/unicode/win-loss]: https://github.com/stdlib-js/plot/tree/main/sparklines/unicode/win-loss
+
+<!-- </related-links> -->
 
 </section>
 

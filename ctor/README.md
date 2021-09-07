@@ -1468,9 +1468,31 @@ function onRender( html ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/plot`][@stdlib/plot]: standard library plotting.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [vdom]: https://github.com/Matt-Esch/virtual-dom
+
+<!-- <related-links> -->
+
+[@stdlib/plot]: https://github.com/stdlib-js/plot/tree/main
+
+<!-- </related-links> -->
 
 </section>
 
