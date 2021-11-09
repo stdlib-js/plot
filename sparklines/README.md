@@ -20,7 +20,7 @@ limitations under the License.
 
 # Sparklines
 
-> Standard library sparklines.
+> Sparklines.
 
 <section class="usage">
 
@@ -32,7 +32,7 @@ var ns = require( '@stdlib/plot/sparklines' );
 
 #### ns
 
-Standard library sparklines.
+Namespace for sparkline functionality.
 
 ```javascript
 var o = ns;
@@ -43,7 +43,7 @@ var o = ns;
 
 <div class="namespace-toc">
 
--   <span class="signature">[`base`][@stdlib/plot/sparklines/base]</span><span class="delimiter">: </span><span class="description">standard library base sparkline functionality.</span>
+-   <span class="signature">[`base`][@stdlib/plot/sparklines/base]</span><span class="delimiter">: </span><span class="description">base sparkline functionality.</span>
 -   <span class="signature">[`unicode( [data,] [options] )`][@stdlib/plot/sparklines/unicode]</span><span class="delimiter">: </span><span class="description">create a Unicode sparkline.</span>
 
 </div>
