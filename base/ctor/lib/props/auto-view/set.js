@@ -36,12 +36,12 @@ var debug = logger( 'plot:base:set:auto-view' );
 *
 * @private
 * @param {boolean} bool - boolean indicating whether to generate an updated view on a render event
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 */
 function set( bool ) {
 	/* eslint-disable no-invalid-this */
 	if ( !isBoolean( bool ) ) {
-		throw new TypeError( 'invalid value. `autoView` must be a boolean primitive. Value: `' + bool + '.`' );
+		throw new TypeError( 'invalid value. `autoView` must be a boolean. Value: `' + bool + '.`' );
 	}
 	if ( bool !== this._autoView ) {
 		debug( 'Current value: %s.', this._autoView );

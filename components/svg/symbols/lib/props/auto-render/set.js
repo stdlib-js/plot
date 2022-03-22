@@ -36,12 +36,12 @@ var debug = logger( 'symbols:set:auto-render' );
 *
 * @private
 * @param {boolean} bool - boolean indicating whether to re-render on a change event
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 */
 function set( bool ) {
 	/* eslint-disable no-invalid-this */
 	if ( !isBoolean( bool ) ) {
-		throw new TypeError( 'invalid value. `autoRender` must be a boolean primitive. Value: `' + bool + '.`' );
+		throw new TypeError( 'invalid value. `autoRender` must be a boolean. Value: `' + bool + '.`' );
 	}
 	debug( 'Current value: %d.', this._autoRender );
 

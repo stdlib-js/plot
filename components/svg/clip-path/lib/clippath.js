@@ -204,7 +204,7 @@ defineProperty( ClipPath.prototype, 'height', {
 * @name id
 * @memberof ClipPath.prototype
 * @type {string}
-* @throws {TypeError} must be a primitive string
+* @throws {TypeError} must be a string
 *
 * @example
 * var clipPath = new ClipPath({
@@ -227,7 +227,7 @@ defineProperty( ClipPath.prototype, 'id', {
 * @name autoRender
 * @memberof ClipPath.prototype
 * @type {boolean}
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 * @default false
 *
 * @example

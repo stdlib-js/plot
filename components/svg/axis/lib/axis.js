@@ -246,7 +246,7 @@ defineProperty( Axis.prototype, 'scale', {
 * @name orientation
 * @memberof Axis.prototype
 * @type {string}
-* @throws {TypeError} must be a string primitive
+* @throws {TypeError} must be a string
 * @default 'bottom'
 *
 * @example
@@ -271,7 +271,7 @@ defineProperty( Axis.prototype, 'orientation', {
 * @name label
 * @memberof Axis.prototype
 * @type {string}
-* @throws {TypeError} must be a string primitive
+* @throws {TypeError} must be a string
 *
 * @example
 * var axis = new Axis({
@@ -534,7 +534,7 @@ defineProperty( Axis.prototype, 'tickPos', {
 * @name autoRender
 * @memberof Axis.prototype
 * @type {boolean}
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 * @default false
 *
 * @example

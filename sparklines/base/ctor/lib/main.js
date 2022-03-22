@@ -204,7 +204,7 @@ inherit( Sparkline, EventEmitter );
 * @name autoRender
 * @memberof Sparkline.prototype
 * @type {boolean}
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 * @default false
 *
 * @example
@@ -283,7 +283,7 @@ defineProperty( Sparkline.prototype, 'data', {
 * @name description
 * @memberof Sparkline.prototype
 * @type {string}
-* @throws {TypeError} must be a string primitive
+* @throws {TypeError} must be a string
 * @default ''
 *
 * @example

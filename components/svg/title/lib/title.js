@@ -136,7 +136,7 @@ Title.prototype.constructor = Title;
 * @name text
 * @memberof Title.prototype
 * @type {string}
-* @throws {TypeError} must be a primitive string
+* @throws {TypeError} must be a string
 *
 * @example
 * var title = new Title({
@@ -159,7 +159,7 @@ defineProperty( Title.prototype, 'text', {
 * @name autoRender
 * @memberof Title.prototype
 * @type {boolean}
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 * @default false
 *
 * @example

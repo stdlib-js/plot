@@ -186,7 +186,7 @@ inherit( Rug, EventEmitter );
 * @name autoRender
 * @memberof Rug.prototype
 * @type {boolean}
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 * @default false
 *
 * @example
@@ -210,7 +210,7 @@ defineProperty( Rug.prototype, 'autoRender', {
 * @name color
 * @memberof Rug.prototype
 * @type {(string|Function)}
-* @throws {TypeError} must be a primitive string or function
+* @throws {TypeError} must be a string or function
 *
 * @example
 * var node = new Rug({
@@ -292,7 +292,7 @@ defineProperty( Rug.prototype, 'isDefined', {
 * @name label
 * @memberof Rug.prototype
 * @type {(string|Function)}
-* @throws {TypeError} must be a primitive string or function
+* @throws {TypeError} must be a string or function
 *
 * @example
 * var node = new Rug({

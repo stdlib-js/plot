@@ -136,7 +136,7 @@ Marks.prototype.constructor = Marks;
 * @name clipPathId
 * @memberof Marks.prototype
 * @type {string}
-* @throws {TypeError} must be a primitive string
+* @throws {TypeError} must be a string
 *
 * @example
 * var marks = new Marks({
@@ -159,7 +159,7 @@ defineProperty( Marks.prototype, 'clipPathId', {
 * @name autoRender
 * @memberof Marks.prototype
 * @type {boolean}
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 * @default false
 *
 * @example

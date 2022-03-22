@@ -36,12 +36,12 @@ var debug = logger( 'sparkline:unicode:set:infinities' );
 *
 * @private
 * @param {boolean} bool - boolean flag
-* @throws {TypeError} must be a boolean primitive
+* @throws {TypeError} must be a boolean
 */
 function set( bool ) {
 	/* eslint-disable no-invalid-this */
 	if ( !isBoolean( bool ) ) {
-		throw new TypeError( 'invalid value. `infinities` must be a boolean primitive. Value: `' + bool + '`.' );
+		throw new TypeError( 'invalid value. `infinities` must be a boolean. Value: `' + bool + '`.' );
 	}
 	if ( bool !== this._infinities ) {
 		debug( 'Current value: %s.', this._infinities );
