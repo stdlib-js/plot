@@ -38,7 +38,7 @@ var debug = logger( 'plot:set:y-max' );
 *
 * @private
 * @param {(FiniteNumber|null)} max - maximum value
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @returns {void}
 */
 function set( max ) {
@@ -47,7 +47,7 @@ function set( max ) {
 		!isNull( max ) &&
 		!isNumber( max ) // FIXME: finite number
 	) {
-		throw new TypeError( format( 'invalid value. `%s` must be either a finite number or null. Value: `%s`.', 'yMax', max ) );
+		throw new TypeError( format( 'invalid assignment. `%s` must be a number or null. Value: `%s`.', 'yMax', max ) );
 	}
 	if ( max !== this._yMax ) {
 		debug( 'Current value: %d.', this._yMax );

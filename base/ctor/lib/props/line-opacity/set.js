@@ -46,7 +46,7 @@ function set( v ) {
 	var isNum = isNumber( v );
 	var i;
 	if ( !isNum && !isNumberArray( v ) ) {
-		throw new TypeError( format( 'invalid value. `%s` must be a number or number array. Value: `%s`.', 'lineOpacity', v ) );
+		throw new TypeError( format( 'invalid assignment. `%s` must be a number or an array of numbers. Value: `%s`.', 'lineOpacity', v ) );
 	}
 	if ( isNum ) {
 		v = [ v ];
@@ -55,7 +55,7 @@ function set( v ) {
 	}
 	for ( i = 0; i < v.length; i++ ) {
 		if ( v[ i ] < 0.0 || v[ i ] > 1.0 ) {
-			throw new RangeError( format( 'invalid value. A `%s` must be a number on the interval `[0,1]`. Value: `%f`.', 'lineOpacity', v[i] ) );
+			throw new RangeError( format( 'invalid assignment. A `%s` must be a number on the interval: [0, 1]. Value: `%f`.', 'lineOpacity', v[i] ) );
 		}
 	}
 	debug( 'Current value: %s.', JSON.stringify( this._lineOpacity ) );

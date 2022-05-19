@@ -38,7 +38,7 @@ var debug = logger( 'plot:set:y-min' );
 *
 * @private
 * @param {(FiniteNumber|null)} min - minimum value
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @returns {void}
 */
 function set( min ) {
@@ -47,7 +47,7 @@ function set( min ) {
 		!isNull( min ) &&
 		!isNumber( min ) // FIXME: finite number
 	) {
-		throw new TypeError( format( 'invalid value. `%s` must be either a finite number or null. Value: `%s`.', 'yMin', min ) );
+		throw new TypeError( format( 'invalid assignment. `%s` must be a number or null. Value: `%s`.', 'yMin', min ) );
 	}
 	if ( min !== this._yMin ) {
 		debug( 'Current value: %d.', this._yMin );

@@ -38,7 +38,7 @@ var debug = logger( 'plot:set:x-min' );
 *
 * @private
 * @param {(Date|FiniteNumber|null)} min - minimum value
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @returns {void}
 */
 function set( min ) {
@@ -51,7 +51,7 @@ function set( min ) {
 
 		// TODO: Date
 	) {
-		throw new TypeError( format( 'invalid value. `%s` must be either a finite number, Date, or null. Value: `%s`.', 'xMin', min ) );
+		throw new TypeError( format( 'invalid assignment. `%s` must be a finite number, Date, or null. Value: `%s`.', 'xMin', min ) );
 	}
 	debug( 'Current value: %s.', this._xMin );
 

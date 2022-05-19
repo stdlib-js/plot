@@ -286,7 +286,7 @@ function Plot() {
 	} else if ( nargs === 1 ) {
 		options = arguments[ 0 ];
 		if ( !isObject( options ) ) {
-			throw new TypeError( format( 'invalid argument. Options argument must be an `object`. Value: `%s`.', options ) );
+			throw new TypeError( format( 'invalid argument. Options argument must be an object. Value: `%s`.', options ) );
 		}
 	} else if ( nargs === 2 ) {
 		options = {
@@ -295,7 +295,7 @@ function Plot() {
 		};
 	} else if ( nargs > 2 ) {
 		if ( !isObject( arguments[2] ) ) {
-			throw new TypeError( format( 'invalid argument. Options argument must be an `object`. Value: `%s`.', arguments[2] ) );
+			throw new TypeError( format( 'invalid argument. Options argument must be an object. Value: `%s`.', arguments[2] ) );
 		}
 		options = copy( arguments[2] ); // avoid mutation
 		options.x = arguments[ 0 ];
@@ -900,7 +900,7 @@ defineProperty( Plot.prototype, 'paddingBottom', {
 * @name xMin
 * @memberof Plot.prototype
 * @type {(FiniteNumber|null)}
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @default null
 *
 * @example
@@ -931,7 +931,7 @@ defineProperty( Plot.prototype, 'xMin', {
 * @name xMax
 * @memberof Plot.prototype
 * @type {(FiniteNumber|null)}
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @default null
 *
 * @example
@@ -962,7 +962,7 @@ defineProperty( Plot.prototype, 'xMax', {
 * @name yMin
 * @memberof Plot.prototype
 * @type {(FiniteNumber|null)}
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @default null
 *
 * @example
@@ -993,7 +993,7 @@ defineProperty( Plot.prototype, 'yMin', {
 * @name yMax
 * @memberof Plot.prototype
 * @type {(FiniteNumber|null)}
-* @throws {TypeError} must be a finite number primitive or null
+* @throws {TypeError} must be a finite number or null
 * @default null
 *
 * @example

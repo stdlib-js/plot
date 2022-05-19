@@ -48,7 +48,7 @@ function set( v ) {
 	var isStr = isString( v );
 	var i;
 	if ( !isStr && !isStringArray( v ) ) {
-		throw new TypeError( format( 'invalid value. `%s` must be either a string or string array. Value: `%s`.', 'xRugOrient', v ) );
+		throw new TypeError( format( 'invalid assignment. `%s` must be a string or an array of strings. Value: `%s`.', 'xRugOrient', v ) );
 	}
 	if ( isStr ) {
 		v = [ v ];
@@ -57,7 +57,7 @@ function set( v ) {
 	}
 	for ( i = 0; i < v.length; i++ ) {
 		if ( indexOf( ORIENTATIONS, v[i] ) === -1 ) {
-			throw new TypeError( format( 'invalid value. Unrecognized/unsupported orientation. An `%s` value must be one of `[%s]`. Value: `%s`.', 'xRugOrient', ORIENTATIONS.join( ', ' ), v[ i ] ) );
+			throw new TypeError( format( 'invalid assignment. Unrecognized/unsupported orientation. A `%s` value must be one of the following: "%s". Value: `%s`.', 'xRugOrient', ORIENTATIONS.join( '", "' ), v[ i ] ) );
 		}
 	}
 	debug( 'Current value: %s.', JSON.stringify( this._xRugOrient ) );

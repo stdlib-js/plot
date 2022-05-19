@@ -48,7 +48,7 @@ function set( v ) {
 	var isStr = isString( v );
 	var i;
 	if ( !isStr && !isStringArray( v ) ) {
-		throw new TypeError( format( 'invalid value. `%s` must be a string or a string array. Value: `%s`', 'lineStyle', v ) );
+		throw new TypeError( format( 'invalid assignment. `%s` must be a string or an array of strings. Value: `%s`.', 'lineStyle', v ) );
 	}
 	if ( isStr ) {
 		v = [ v ];
@@ -57,7 +57,7 @@ function set( v ) {
 	}
 	for ( i = 0; i < v.length; i++ ) {
 		if ( indexOf( LINESTYLES, v[i] ) === -1 ) {
-			throw new Error( format( 'invalid value. Unsupported/unrecognized line style. Must be one of `[%s]`. Value: `%s`.', LINESTYLES.join(','), v[i] ) );
+			throw new Error( format( 'invalid assignment. Unsupported/unrecognized line style. Must be one of the following: "%s". Value: `%s`.', LINESTYLES.join( '", "' ), v[i] ) );
 		}
 	}
 	debug( 'Current value: %s.', JSON.stringify( this._lineStyle ) );
