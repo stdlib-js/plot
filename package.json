@@ -50,13 +50,13 @@
     "vdom-to-html": "^2.3.0"
   },
   "devDependencies": {
-    "@stdlib/array": "github:stdlib-js/array",
-    "@stdlib/bench": "github:stdlib-js/bench",
-    "@stdlib/constants": "github:stdlib-js/constants",
-    "@stdlib/math": "github:stdlib-js/math",
-    "@stdlib/ndarray": "github:stdlib-js/ndarray",
-    "@stdlib/streams": "github:stdlib-js/streams",
-    "@stdlib/time": "github:stdlib-js/time",
+    "@stdlib/array": "github:stdlib-js/array#main",
+    "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/constants": "github:stdlib-js/constants#main",
+    "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/ndarray": "github:stdlib-js/ndarray#main",
+    "@stdlib/streams": "github:stdlib-js/streams#main",
+    "@stdlib/time": "github:stdlib-js/time#main",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "proxyquire": "^2.0.0",
     "istanbul": "^0.4.1",
@@ -94,7 +94,7 @@
     "analysis"
   ],
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
