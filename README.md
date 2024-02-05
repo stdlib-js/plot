@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/plot/tags). For example,
+
+```javascript
 import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.2.1-esm/index.mjs';
 ```
 
@@ -77,7 +82,7 @@ var plt = plot( [ x ], [ y ] );
 import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random/base/box-muller@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array/float64@esm/index.mjs';
 import now from 'https://cdn.jsdelivr.net/gh/stdlib-js/time/now@esm/index.mjs';
-import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.2.1-esm/index.mjs';
+import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@esm/index.mjs';
 
 var t;
 var x;
