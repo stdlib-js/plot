@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@deno/mod.js';
+import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.1-deno/mod.js';
 ```
 
 #### plot
@@ -72,7 +72,7 @@ var plt = plot( [ x ], [ y ] );
 import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random/base/box-muller@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array/float64@deno/mod.js';
 import now from 'https://cdn.jsdelivr.net/gh/stdlib-js/time/now@deno/mod.js';
-import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@deno/mod.js';
+import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.1-deno/mod.js';
 
 var t;
 var x;
