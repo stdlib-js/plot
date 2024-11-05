@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-plot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@umd/browser.js' )
+plot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.2-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var plot = require( 'path/to/vendor/umd/plot/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/plot@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.2-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -99,7 +99,7 @@ var plt = plot( [ x ], [ y ] );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random/base/box-muller@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array/float64@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/time/now@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/plot@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.2-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
