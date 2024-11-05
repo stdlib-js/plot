@@ -47,7 +47,8 @@
     "d3-shape": "^1.0.0",
     "d3-time-format": "^2.0.0",
     "debug": "^2.6.9",
-    "vdom-to-html": "^2.3.0"
+    "vdom-to-html": "^2.3.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array": "github:stdlib-js/array#main",
