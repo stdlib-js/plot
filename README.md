@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@esm/index.mjs';
+import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.3-esm/index.mjs';
 ```
 
 #### plot
@@ -77,7 +77,7 @@ var plt = plot( [ x ], [ y ] );
 import randn from 'https://cdn.jsdelivr.net/gh/stdlib-js/random/base/box-muller@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array/float64@esm/index.mjs';
 import now from 'https://cdn.jsdelivr.net/gh/stdlib-js/time/now@esm/index.mjs';
-import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@esm/index.mjs';
+import plot from 'https://cdn.jsdelivr.net/gh/stdlib-js/plot@v0.3.3-esm/index.mjs';
 
 var t;
 var x;
