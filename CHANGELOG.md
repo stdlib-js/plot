@@ -4,22 +4,59 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-03-07)
 
 <section class="packages">
 
 ### Packages
 
+<section class="package" id="plot-components-svg-symbols-unreleased">
+
+#### [@stdlib/plot/components/svg/symbols](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/plot/components/svg/symbols)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="contributors">
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Anshu Kumar
 -   Philipp Burckhardt
 
 </section>
@@ -32,6 +69,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`fea4b5b`](https://github.com/stdlib-js/stdlib/commit/fea4b5b38cc1fd06ba856490378e069bf64a928b) - **chore(plot):** replace array pre-allocation with push [(#5852)](https://github.com/stdlib-js/stdlib/pull/5852) _(by Anshu Kumar)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
 
 </details>
