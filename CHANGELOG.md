@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-07)
+## Unreleased (2025-03-30)
 
 <section class="packages">
 
@@ -54,9 +54,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
@@ -69,6 +70,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ac3514a`](https://github.com/stdlib-js/stdlib/commit/ac3514a8ab9759921e6c33ad11498603f1ccd085) - **refactor:** use base array assertion utility _(by Athan Reines)_
 -   [`fea4b5b`](https://github.com/stdlib-js/stdlib/commit/fea4b5b38cc1fd06ba856490378e069bf64a928b) - **chore(plot):** replace array pre-allocation with push [(#5852)](https://github.com/stdlib-js/stdlib/pull/5852) _(by Anshu Kumar)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
 
