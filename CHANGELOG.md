@@ -4,65 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="plot-components-svg-symbols-unreleased">
-
-#### [@stdlib/plot/components/svg/symbols](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/plot/components/svg/symbols)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
+## Unreleased (2025-07-27)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#7744](https://github.com/stdlib-js/stdlib/issues/7744)
 
 </section>
 
 <!-- /.issues -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 3 people contributed to this release. Thank you to the following contributors:
-
--   Anshu Kumar
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -70,6 +24,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c2cf04d`](https://github.com/stdlib-js/stdlib/commit/c2cf04db45596bd9a6fdde72df5c85e6cd233bc7) - **chore:** fix JavaScript lint errors [(#7747)](https://github.com/stdlib-js/stdlib/pull/7747) _(by Pradyumn Prasad, Athan Reines)_
 -   [`ac3514a`](https://github.com/stdlib-js/stdlib/commit/ac3514a8ab9759921e6c33ad11498603f1ccd085) - **refactor:** use base array assertion utility _(by Athan Reines)_
 -   [`fea4b5b`](https://github.com/stdlib-js/stdlib/commit/fea4b5b38cc1fd06ba856490378e069bf64a928b) - **chore(plot):** replace array pre-allocation with push [(#5852)](https://github.com/stdlib-js/stdlib/pull/5852) _(by Anshu Kumar)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
@@ -79,6 +34,21 @@ A total of 3 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 4 people contributed to this release. Thank you to the following contributors:
+
+-   Anshu Kumar
+-   Athan Reines
+-   Philipp Burckhardt
+-   Pradyumn Prasad
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -138,26 +108,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-05)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -171,6 +121,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
