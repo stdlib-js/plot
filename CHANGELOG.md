@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-01)
+## Unreleased (2025-09-13)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 4 issues were closed in this release:
+A total of 5 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`f5d1741`](https://github.com/stdlib-js/stdlib/commit/f5d1741e71dac9dc829551c86109d18590515e01) - **chore:** address lint errors in `plot/unicode/stemleaf` [(#8066)](https://github.com/stdlib-js/stdlib/pull/8066) _(by Vara Rahul Rajana)_
 -   [`5f2a8e1`](https://github.com/stdlib-js/stdlib/commit/5f2a8e17d446397ce2c93e683a3187ec63a38ded) - **chore:** address EditorConfig lint errors [(#7999)](https://github.com/stdlib-js/stdlib/pull/7999) _(by DUDHAT HEMIL PRAVINKUMAR)_
 -   [`dbc0f86`](https://github.com/stdlib-js/stdlib/commit/dbc0f86a129ad6d1bc89b4dc6a30948f2ba8e85f) - **chore:** fix JavaScript lint errors [(#7952)](https://github.com/stdlib-js/stdlib/pull/7952) _(by Vara Rahul Rajana)_
 -   [`c2cf04d`](https://github.com/stdlib-js/stdlib/commit/c2cf04db45596bd9a6fdde72df5c85e6cd233bc7) - **chore:** fix JavaScript lint errors [(#7747)](https://github.com/stdlib-js/stdlib/pull/7747) _(by Pradyumn Prasad, Athan Reines)_
