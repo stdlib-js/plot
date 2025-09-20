@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-16)
+## Unreleased (2025-09-20)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099)
 
 </section>
 
@@ -24,7 +24,8 @@ A total of 6 issues were closed in this release:
 
 <details>
 
--   [`6b4d430`](https://github.com/stdlib-js/stdlib/commit/6b4d4306def168bf7fccd9ca1eeb719b169c1dce) - **chore:** address JavaScript lint errors [(#8081)](https://github.com/stdlib-js/stdlib/pull/8081) _(by Anshumancanrock, Athan Reines)_
+-   [`39c8178`](https://github.com/stdlib-js/stdlib/commit/39c81784cc23324dc9ec312ccc1ed466db849feb) - **chore:** fix EditorConfig lint errors [(#8107)](https://github.com/stdlib-js/stdlib/pull/8107) _(by Payal Goswami)_
+-   [`6b4d430`](https://github.com/stdlib-js/stdlib/commit/6b4d4306def168bf7fccd9ca1eeb719b169c1dce) - **chore:** address JavaScript lint errors [(#8081)](https://github.com/stdlib-js/stdlib/pull/8081) _(by Anshuman Singh, Athan Reines)_
 -   [`f5d1741`](https://github.com/stdlib-js/stdlib/commit/f5d1741e71dac9dc829551c86109d18590515e01) - **chore:** address lint errors in `plot/unicode/stemleaf` [(#8066)](https://github.com/stdlib-js/stdlib/pull/8066) _(by Vara Rahul Rajana)_
 -   [`5f2a8e1`](https://github.com/stdlib-js/stdlib/commit/5f2a8e17d446397ce2c93e683a3187ec63a38ded) - **chore:** address EditorConfig lint errors [(#7999)](https://github.com/stdlib-js/stdlib/pull/7999) _(by DUDHAT HEMIL PRAVINKUMAR)_
 -   [`dbc0f86`](https://github.com/stdlib-js/stdlib/commit/dbc0f86a129ad6d1bc89b4dc6a30948f2ba8e85f) - **chore:** fix JavaScript lint errors [(#7952)](https://github.com/stdlib-js/stdlib/pull/7952) _(by Vara Rahul Rajana)_
@@ -43,12 +44,13 @@ A total of 6 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
--   Anshumancanrock
+-   Anshuman Singh
 -   Athan Reines
 -   DUDHAT HEMIL PRAVINKUMAR
+-   Payal Goswami
 -   Philipp Burckhardt
 -   Pradyumn Prasad
 -   Vara Rahul Rajana
