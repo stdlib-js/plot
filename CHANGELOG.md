@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-24)
+## Unreleased (2025-10-08)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 8 issues were closed in this release:
+A total of 9 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`6006497`](https://github.com/stdlib-js/stdlib/commit/600649710292885bdb2a22eba94a506c9a0d294f) - **chore:** fix EditorConfig lint errors [(#8210)](https://github.com/stdlib-js/stdlib/pull/8210) _(by Payal Goswami)_
 -   [`91b52d8`](https://github.com/stdlib-js/stdlib/commit/91b52d8c048d74c284478f4790690b53885cd65c) - **chore:** fix JavaScript lint errors [(#8119)](https://github.com/stdlib-js/stdlib/pull/8119) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`39c8178`](https://github.com/stdlib-js/stdlib/commit/39c81784cc23324dc9ec312ccc1ed466db849feb) - **chore:** fix EditorConfig lint errors [(#8107)](https://github.com/stdlib-js/stdlib/pull/8107) _(by Payal Goswami)_
 -   [`6b4d430`](https://github.com/stdlib-js/stdlib/commit/6b4d4306def168bf7fccd9ca1eeb719b169c1dce) - **chore:** address JavaScript lint errors [(#8081)](https://github.com/stdlib-js/stdlib/pull/8081) _(by Anshuman Singh, Athan Reines)_
