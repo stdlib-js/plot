@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-08)
+## Unreleased (2025-11-06)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 9 issues were closed in this release:
+A total of 10 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8273](https://github.com/stdlib-js/stdlib/issues/8273)
 
 </section>
 
@@ -24,12 +24,13 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`9bd986c`](https://github.com/stdlib-js/stdlib/commit/9bd986c6f5e134e3c7c3c1450e4aa5dd1db13a0a) - **chore:** fix EditorConfig lint errors [(#8408)](https://github.com/stdlib-js/stdlib/pull/8408) _(by kaushal-kumar-it, Athan Reines)_
 -   [`6006497`](https://github.com/stdlib-js/stdlib/commit/600649710292885bdb2a22eba94a506c9a0d294f) - **chore:** fix EditorConfig lint errors [(#8210)](https://github.com/stdlib-js/stdlib/pull/8210) _(by Payal Goswami)_
 -   [`91b52d8`](https://github.com/stdlib-js/stdlib/commit/91b52d8c048d74c284478f4790690b53885cd65c) - **chore:** fix JavaScript lint errors [(#8119)](https://github.com/stdlib-js/stdlib/pull/8119) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`39c8178`](https://github.com/stdlib-js/stdlib/commit/39c81784cc23324dc9ec312ccc1ed466db849feb) - **chore:** fix EditorConfig lint errors [(#8107)](https://github.com/stdlib-js/stdlib/pull/8107) _(by Payal Goswami)_
 -   [`6b4d430`](https://github.com/stdlib-js/stdlib/commit/6b4d4306def168bf7fccd9ca1eeb719b169c1dce) - **chore:** address JavaScript lint errors [(#8081)](https://github.com/stdlib-js/stdlib/pull/8081) _(by Anshuman Singh, Athan Reines)_
 -   [`f5d1741`](https://github.com/stdlib-js/stdlib/commit/f5d1741e71dac9dc829551c86109d18590515e01) - **chore:** address lint errors in `plot/unicode/stemleaf` [(#8066)](https://github.com/stdlib-js/stdlib/pull/8066) _(by Vara Rahul Rajana)_
--   [`5f2a8e1`](https://github.com/stdlib-js/stdlib/commit/5f2a8e17d446397ce2c93e683a3187ec63a38ded) - **chore:** address EditorConfig lint errors [(#7999)](https://github.com/stdlib-js/stdlib/pull/7999) _(by DUDHAT HEMIL PRAVINKUMAR)_
+-   [`5f2a8e1`](https://github.com/stdlib-js/stdlib/commit/5f2a8e17d446397ce2c93e683a3187ec63a38ded) - **chore:** address EditorConfig lint errors [(#7999)](https://github.com/stdlib-js/stdlib/pull/7999) _(by Dudhat Hemil Pravinkumar)_
 -   [`dbc0f86`](https://github.com/stdlib-js/stdlib/commit/dbc0f86a129ad6d1bc89b4dc6a30948f2ba8e85f) - **chore:** fix JavaScript lint errors [(#7952)](https://github.com/stdlib-js/stdlib/pull/7952) _(by Vara Rahul Rajana)_
 -   [`c2cf04d`](https://github.com/stdlib-js/stdlib/commit/c2cf04db45596bd9a6fdde72df5c85e6cd233bc7) - **chore:** fix JavaScript lint errors [(#7747)](https://github.com/stdlib-js/stdlib/pull/7747) _(by Pradyumn Prasad, Athan Reines)_
 -   [`ac3514a`](https://github.com/stdlib-js/stdlib/commit/ac3514a8ab9759921e6c33ad11498603f1ccd085) - **refactor:** use base array assertion utility _(by Athan Reines)_
@@ -46,17 +47,18 @@ A total of 9 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
 -   Anshuman Singh
 -   Athan Reines
--   DUDHAT HEMIL PRAVINKUMAR
+-   Dudhat Hemil Pravinkumar
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Pradyumn Prasad
 -   Prajjwal Bajpai
 -   Vara Rahul Rajana
+-   kaushal-kumar-it
 
 </section>
 
