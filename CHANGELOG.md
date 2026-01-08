@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2026-01-08)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 13 issues were closed in this release:
+A total of 14 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#8273](https://github.com/stdlib-js/stdlib/issues/8273), [#8725](https://github.com/stdlib-js/stdlib/issues/8725), [#8875](https://github.com/stdlib-js/stdlib/issues/8875)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#8273](https://github.com/stdlib-js/stdlib/issues/8273), [#8725](https://github.com/stdlib-js/stdlib/issues/8725), [#8875](https://github.com/stdlib-js/stdlib/issues/8875), [#9614](https://github.com/stdlib-js/stdlib/issues/9614)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`f8b7e2e`](https://github.com/stdlib-js/stdlib/commit/f8b7e2e47633d1ee11a9013521476a5dc6bca786) - **chore:** fix EditorConfig lint errors [(#9618)](https://github.com/stdlib-js/stdlib/pull/9618) _(by Divyanshu)_
 -   [`da2e235`](https://github.com/stdlib-js/stdlib/commit/da2e235db12937572e490f2b05ce1ce775aa245e) - **chore:** fix EditorConfig lint errors [(#8904)](https://github.com/stdlib-js/stdlib/pull/8904) _(by Divyanshu)_
 -   [`09c6032`](https://github.com/stdlib-js/stdlib/commit/09c603243ffb5539937ebd1986e9d9029c7a52cb) - **chore:** update array allocation and example path [(#8789)](https://github.com/stdlib-js/stdlib/pull/8789) _(by Atharv1405)_
 -   [`5705eb2`](https://github.com/stdlib-js/stdlib/commit/5705eb22ccf4ccf21107796d3ef35ab449d86a7e) - **chore:** fix EditorConfig lint errors [(#8731)](https://github.com/stdlib-js/stdlib/pull/8731) _(by Krishna Awasthi)_
