@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-24)
+## Unreleased (2026-01-31)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ A total of 15 issues were closed in this release:
 
 <details>
 
+-   [`94fd9d1`](https://github.com/stdlib-js/stdlib/commit/94fd9d14ec766730cb1db7f8e5fa3ec8dd53493e) - **bench:** refactor to use string interpolation in `plot/sparkline/unicode/line` [(#9988)](https://github.com/stdlib-js/stdlib/pull/9988) _(by AyushiJain18270)_
 -   [`bb3344f`](https://github.com/stdlib-js/stdlib/commit/bb3344fa8ee3aacb533b6d76531c9687bd7a7ef8) - **chore:** fix EditorConfig lint errors [(#9641)](https://github.com/stdlib-js/stdlib/pull/9641) _(by Shreelaxmi Hegde)_
 -   [`f8b7e2e`](https://github.com/stdlib-js/stdlib/commit/f8b7e2e47633d1ee11a9013521476a5dc6bca786) - **chore:** fix EditorConfig lint errors [(#9618)](https://github.com/stdlib-js/stdlib/pull/9618) _(by Divyanshu)_
 -   [`da2e235`](https://github.com/stdlib-js/stdlib/commit/da2e235db12937572e490f2b05ce1ce775aa245e) - **chore:** fix EditorConfig lint errors [(#8904)](https://github.com/stdlib-js/stdlib/pull/8904) _(by Divyanshu)_
@@ -52,12 +53,13 @@ A total of 15 issues were closed in this release:
 
 ### Contributors
 
-A total of 14 people contributed to this release. Thank you to the following contributors:
+A total of 15 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
 -   Anshuman Singh
 -   Athan Reines
 -   Atharv1405
+-   AyushiJain18270
 -   Divyanshu
 -   Dudhat Hemil Pravinkumar
 -   Krishna Awasthi
