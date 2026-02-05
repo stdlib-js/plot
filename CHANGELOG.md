@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-31)
+## Unreleased (2026-02-05)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 15 issues were closed in this release:
+A total of 16 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#8273](https://github.com/stdlib-js/stdlib/issues/8273), [#8725](https://github.com/stdlib-js/stdlib/issues/8725), [#8875](https://github.com/stdlib-js/stdlib/issues/8875), [#9614](https://github.com/stdlib-js/stdlib/issues/9614), [#9638](https://github.com/stdlib-js/stdlib/issues/9638)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#8273](https://github.com/stdlib-js/stdlib/issues/8273), [#8725](https://github.com/stdlib-js/stdlib/issues/8725), [#8875](https://github.com/stdlib-js/stdlib/issues/8875), [#9614](https://github.com/stdlib-js/stdlib/issues/9614), [#9638](https://github.com/stdlib-js/stdlib/issues/9638), [#9964](https://github.com/stdlib-js/stdlib/issues/9964)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 15 issues were closed in this release:
 
 <details>
 
+-   [`b1ead99`](https://github.com/stdlib-js/stdlib/commit/b1ead9929135bf59212a215d8dc84b414184e919) - **chore:** fix EditorConfig lint errors [(#9969)](https://github.com/stdlib-js/stdlib/pull/9969) _(by Suyash Pathak)_
 -   [`94fd9d1`](https://github.com/stdlib-js/stdlib/commit/94fd9d14ec766730cb1db7f8e5fa3ec8dd53493e) - **bench:** refactor to use string interpolation in `plot/sparkline/unicode/line` [(#9988)](https://github.com/stdlib-js/stdlib/pull/9988) _(by AyushiJain18270)_
 -   [`bb3344f`](https://github.com/stdlib-js/stdlib/commit/bb3344fa8ee3aacb533b6d76531c9687bd7a7ef8) - **chore:** fix EditorConfig lint errors [(#9641)](https://github.com/stdlib-js/stdlib/pull/9641) _(by Shreelaxmi Hegde)_
 -   [`f8b7e2e`](https://github.com/stdlib-js/stdlib/commit/f8b7e2e47633d1ee11a9013521476a5dc6bca786) - **chore:** fix EditorConfig lint errors [(#9618)](https://github.com/stdlib-js/stdlib/pull/9618) _(by Divyanshu)_
@@ -53,7 +54,7 @@ A total of 15 issues were closed in this release:
 
 ### Contributors
 
-A total of 15 people contributed to this release. Thank you to the following contributors:
+A total of 16 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
 -   Anshuman Singh
@@ -68,6 +69,7 @@ A total of 15 people contributed to this release. Thank you to the following con
 -   Pradyumn Prasad
 -   Prajjwal Bajpai
 -   Shreelaxmi Hegde
+-   Suyash Pathak
 -   Vara Rahul Rajana
 -   kaushal-kumar-it
 
