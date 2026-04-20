@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-16)
+## Unreleased (2026-04-20)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`380b726`](https://github.com/stdlib-js/stdlib/commit/380b726360e468b3f2a96ed8258b83ccdf1e8286) - **bench:** refactor to use string interpolation in `plot` [(#11599)](https://github.com/stdlib-js/stdlib/pull/11599) _(by Karan Anand)_
 -   [`a17e747`](https://github.com/stdlib-js/stdlib/commit/a17e7478ca547e94955559d9687f35785b38f2b4) - **chore:** fix EditorConfig lint errors [(#11473)](https://github.com/stdlib-js/stdlib/pull/11473) _(by 藍-Ai)_
 -   [`193f98c`](https://github.com/stdlib-js/stdlib/commit/193f98c93b9c382570318a26aa942251a432b1d1) - **chore:** fix JavaScript lint errors [(#9872)](https://github.com/stdlib-js/stdlib/pull/9872) _(by Suyash Pathak)_
 -   [`b1ead99`](https://github.com/stdlib-js/stdlib/commit/b1ead9929135bf59212a215d8dc84b414184e919) - **chore:** fix EditorConfig lint errors [(#9969)](https://github.com/stdlib-js/stdlib/pull/9969) _(by Suyash Pathak)_
@@ -56,7 +57,7 @@ A total of 18 issues were closed in this release:
 
 ### Contributors
 
-A total of 17 people contributed to this release. Thank you to the following contributors:
+A total of 18 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
 -   Anshuman Singh
@@ -65,6 +66,7 @@ A total of 17 people contributed to this release. Thank you to the following con
 -   AyushiJain18270
 -   Divyanshu
 -   Dudhat Hemil Pravinkumar
+-   Karan Anand
 -   Krishna Awasthi
 -   Payal Goswami
 -   Philipp Burckhardt
