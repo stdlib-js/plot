@@ -24,6 +24,7 @@ A total of 20 issues were closed in this release:
 
 <details>
 
+-   [`3fe5568`](https://github.com/stdlib-js/stdlib/commit/3fe55682827c8e66b74576d5cf6fe396001d4571) - **docs:** propagate fixes from `develop` across `stats`, `blas`, and `plot` siblings [(#12267)](https://github.com/stdlib-js/stdlib/pull/12267) _(by Philipp Burckhardt, Athan Reines)_
 -   [`40dad68`](https://github.com/stdlib-js/stdlib/commit/40dad68e605aadfb8380e25d3b8f9dc1a0a3389a) - **chore:** fix JavaScript lint errors [(#12257)](https://github.com/stdlib-js/stdlib/pull/12257) _(by Nathanael Mbale, Athan Reines)_
 -   [`10cef3d`](https://github.com/stdlib-js/stdlib/commit/10cef3ddea84febbe57cd64db36736e75117967a) - **chore:** fix EditorConfig lint errors [(#12162)](https://github.com/stdlib-js/stdlib/pull/12162) _(by Phung)_
 -   [`380b726`](https://github.com/stdlib-js/stdlib/commit/380b726360e468b3f2a96ed8258b83ccdf1e8286) - **bench:** refactor to use string interpolation in `plot` [(#11599)](https://github.com/stdlib-js/stdlib/pull/11599) _(by Karan Anand)_
