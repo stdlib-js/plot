@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-18)
+## Unreleased (2026-05-24)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 19 issues were closed in this release:
+A total of 20 issues were closed in this release:
 
-[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#8273](https://github.com/stdlib-js/stdlib/issues/8273), [#8725](https://github.com/stdlib-js/stdlib/issues/8725), [#8875](https://github.com/stdlib-js/stdlib/issues/8875), [#9614](https://github.com/stdlib-js/stdlib/issues/9614), [#9638](https://github.com/stdlib-js/stdlib/issues/9638), [#9867](https://github.com/stdlib-js/stdlib/issues/9867), [#9964](https://github.com/stdlib-js/stdlib/issues/9964), [#11471](https://github.com/stdlib-js/stdlib/issues/11471), [#12161](https://github.com/stdlib-js/stdlib/issues/12161)
+[#5791](https://github.com/stdlib-js/stdlib/issues/5791), [#6956](https://github.com/stdlib-js/stdlib/issues/6956), [#7019](https://github.com/stdlib-js/stdlib/issues/7019), [#7744](https://github.com/stdlib-js/stdlib/issues/7744), [#7993](https://github.com/stdlib-js/stdlib/issues/7993), [#8058](https://github.com/stdlib-js/stdlib/issues/8058), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8114](https://github.com/stdlib-js/stdlib/issues/8114), [#8194](https://github.com/stdlib-js/stdlib/issues/8194), [#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#8273](https://github.com/stdlib-js/stdlib/issues/8273), [#8725](https://github.com/stdlib-js/stdlib/issues/8725), [#8875](https://github.com/stdlib-js/stdlib/issues/8875), [#9614](https://github.com/stdlib-js/stdlib/issues/9614), [#9638](https://github.com/stdlib-js/stdlib/issues/9638), [#9867](https://github.com/stdlib-js/stdlib/issues/9867), [#9964](https://github.com/stdlib-js/stdlib/issues/9964), [#11471](https://github.com/stdlib-js/stdlib/issues/11471), [#12161](https://github.com/stdlib-js/stdlib/issues/12161), [#12236](https://github.com/stdlib-js/stdlib/issues/12236)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`40dad68`](https://github.com/stdlib-js/stdlib/commit/40dad68e605aadfb8380e25d3b8f9dc1a0a3389a) - **chore:** fix JavaScript lint errors [(#12257)](https://github.com/stdlib-js/stdlib/pull/12257) _(by Nathanael Mbale, Athan Reines)_
 -   [`10cef3d`](https://github.com/stdlib-js/stdlib/commit/10cef3ddea84febbe57cd64db36736e75117967a) - **chore:** fix EditorConfig lint errors [(#12162)](https://github.com/stdlib-js/stdlib/pull/12162) _(by Phung)_
 -   [`380b726`](https://github.com/stdlib-js/stdlib/commit/380b726360e468b3f2a96ed8258b83ccdf1e8286) - **bench:** refactor to use string interpolation in `plot` [(#11599)](https://github.com/stdlib-js/stdlib/pull/11599) _(by Karan Anand)_
 -   [`a17e747`](https://github.com/stdlib-js/stdlib/commit/a17e7478ca547e94955559d9687f35785b38f2b4) - **chore:** fix EditorConfig lint errors [(#11473)](https://github.com/stdlib-js/stdlib/pull/11473) _(by 藍-Ai)_
@@ -58,7 +59,7 @@ A total of 19 issues were closed in this release:
 
 ### Contributors
 
-A total of 19 people contributed to this release. Thank you to the following contributors:
+A total of 20 people contributed to this release. Thank you to the following contributors:
 
 -   Anshu Kumar
 -   Anshuman Singh
@@ -69,6 +70,7 @@ A total of 19 people contributed to this release. Thank you to the following con
 -   Dudhat Hemil Pravinkumar
 -   Karan Anand
 -   Krishna Awasthi
+-   Nathanael Mbale
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Phung

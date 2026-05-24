@@ -35,6 +35,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/assert": "github:stdlib-js/assert#main",
     "@stdlib/fs": "github:stdlib-js/fs#main",
     "@stdlib/net": "github:stdlib-js/net#main",
@@ -50,7 +51,6 @@
     "vdom-to-html": "^2.3.0"
   },
   "devDependencies": {
-    "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/math": "github:stdlib-js/math#main",
