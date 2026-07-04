@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-03)
+## Unreleased (2026-07-04)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`14e698b`](https://github.com/stdlib-js/stdlib/commit/14e698b5a0b76f43132845fcc0d9c84e1b1eee47) - use correct debug logger prefix [(#13220)](https://github.com/stdlib-js/stdlib/pull/13220)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`14e698b`](https://github.com/stdlib-js/stdlib/commit/14e698b5a0b76f43132845fcc0d9c84e1b1eee47) - **fix:** use correct debug logger prefix [(#13220)](https://github.com/stdlib-js/stdlib/pull/13220) _(by Philipp Burckhardt)_
 -   [`35b0ceb`](https://github.com/stdlib-js/stdlib/commit/35b0cebbcc09fbd8360368d789baf52331ff02c5) - **chore:** fix EditorConfig lint errors [(#13240)](https://github.com/stdlib-js/stdlib/pull/13240) _(by Ujjwal Verma)_
 
 </details>
@@ -36,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Ujjwal Verma
 
 </section>
