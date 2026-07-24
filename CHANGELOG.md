@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-04)
+## Unreleased (2026-07-24)
 
 <section class="bug-fixes">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#13237](https://github.com/stdlib-js/stdlib/issues/13237)
+[#13237](https://github.com/stdlib-js/stdlib/issues/13237), [#13616](https://github.com/stdlib-js/stdlib/issues/13616)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ccaf46f`](https://github.com/stdlib-js/stdlib/commit/ccaf46f4615f9f00715ec94f37f6f1843beb9c1d) - **chore:** fix JavaScript lint errors [(#13619)](https://github.com/stdlib-js/stdlib/pull/13619) _(by Ashutosh-1304, Athan Reines)_
 -   [`14e698b`](https://github.com/stdlib-js/stdlib/commit/14e698b5a0b76f43132845fcc0d9c84e1b1eee47) - **fix:** use correct debug logger prefix [(#13220)](https://github.com/stdlib-js/stdlib/pull/13220) _(by Philipp Burckhardt)_
 -   [`35b0ceb`](https://github.com/stdlib-js/stdlib/commit/35b0cebbcc09fbd8360368d789baf52331ff02c5) - **chore:** fix EditorConfig lint errors [(#13240)](https://github.com/stdlib-js/stdlib/pull/13240) _(by Ujjwal Verma)_
 
@@ -47,8 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Ashutosh-1304
+-   Athan Reines
 -   Philipp Burckhardt
 -   Ujjwal Verma
 
