@@ -34,6 +34,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`eb44a65`](https://github.com/stdlib-js/stdlib/commit/eb44a65583347551af3afadb64fb48ef96925f5f) - **chore:** fix EditorConfig lint errors [(#14926)](https://github.com/stdlib-js/stdlib/pull/14926) _(by Mehul Negi)_
 -   [`80d3df7`](https://github.com/stdlib-js/stdlib/commit/80d3df76cffc59d089d601ef5b0788dc9039f6af) - **chore:** fix EditorConfig lint errors [(#14510)](https://github.com/stdlib-js/stdlib/pull/14510) _(by Parth Kumbhar)_
 -   [`ccaf46f`](https://github.com/stdlib-js/stdlib/commit/ccaf46f4615f9f00715ec94f37f6f1843beb9c1d) - **chore:** fix JavaScript lint errors [(#13619)](https://github.com/stdlib-js/stdlib/pull/13619) _(by Ashutosh-1304, Athan Reines)_
