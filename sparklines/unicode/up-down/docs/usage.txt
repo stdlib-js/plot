@@ -1,8 +1,0 @@
-
-Usage: sparkline-updown [options] <number> <number> ...
-
-Options:
-
-  -h, --help             Print this message.
-  -V, --version          Print the package version.
-      --split sep        Separator used to split stdin data. Default: /\\r?\\n/.
